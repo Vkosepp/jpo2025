@@ -3,7 +3,7 @@
 #include <curl/curl.h>
 #include <json/json.h>
 #include <locale.h>
-
+//zmiana
 using namespace std;
 
 // Callback function to handle curl's response
